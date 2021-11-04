@@ -1,3 +1,9 @@
+click
 Flask
 pandas
 scikit-learn
+Jinja2
+MarkupSafe
+Werkzeug
+itsdangerous
+
